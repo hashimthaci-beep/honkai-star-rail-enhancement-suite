@@ -1,0 +1,12 @@
+# Generated on 2026-11-05
+# Language detection rules
+src/**/*.ts linguist-detectable
+*.min.js linguist-generated
+*.md linguist-documentation
+node_modules/* linguist-vendored
+
+*.ico binary
+docs/** linguist-vendored
+
+docs/* linguist-vendored
+# eof 57eebc0b
